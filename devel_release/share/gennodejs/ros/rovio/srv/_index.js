@@ -1,0 +1,1 @@
+/home/ws/devel_release/.private/rovio/share/gennodejs/ros/rovio/srv/_index.js

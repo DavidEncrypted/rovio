@@ -1,0 +1,8 @@
+prefix=/home/ws/install_release
+
+Name: lightweight_filtering
+Description: Description of lightweight_filtering
+Version: 0.0.9
+Cflags: -I${prefix}/include -I/home/ws/devel_release/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/ws/devel_release/.private/rovio/share/roseus/ros/rovio/manifest.l

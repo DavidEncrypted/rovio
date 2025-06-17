@@ -1,0 +1,1 @@
+/home/ws/devel_release/.private/rovio/share/common-lisp/ros/rovio/srv/rovio-srv.asd

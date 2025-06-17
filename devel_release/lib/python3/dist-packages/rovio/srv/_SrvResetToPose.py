@@ -1,0 +1,1 @@
+/home/ws/devel_release/.private/rovio/lib/python3/dist-packages/rovio/srv/_SrvResetToPose.py

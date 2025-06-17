@@ -1,0 +1,1 @@
+/home/ws/devel_release/.private/catkin_tools_prebuild/local_setup.fish

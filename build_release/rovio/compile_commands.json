@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/ws/build_release/rovio",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rovio\\\" -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -I/home/ws/devel_release/.private/rovio/include -I/usr/include/eigen3 -I/home/ws/src/rovio/include -I/home/ws/src/rovio/lightweight_filtering/include -I/home/ws/devel_release/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4   -std=c++0x -march=native -O3 -DNDEBUG   -o CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o -c /home/ws/src/rovio/src/feature_tracker_node.cpp",
+  "file": "/home/ws/src/rovio/src/feature_tracker_node.cpp"
+},
+{
+  "directory": "/home/ws/build_release/rovio",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rovio\\\" -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -I/home/ws/devel_release/.private/rovio/include -I/usr/include/eigen3 -I/home/ws/src/rovio/include -I/home/ws/src/rovio/lightweight_filtering/include -I/home/ws/devel_release/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4   -std=c++0x -march=native -O3 -DNDEBUG   -o CMakeFiles/rovio_node.dir/src/rovio_node.cpp.o -c /home/ws/src/rovio/src/rovio_node.cpp",
+  "file": "/home/ws/src/rovio/src/rovio_node.cpp"
+},
+{
+  "directory": "/home/ws/build_release/rovio",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rovio\\\" -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -I/home/ws/devel_release/.private/rovio/include -I/usr/include/eigen3 -I/home/ws/src/rovio/include -I/home/ws/src/rovio/lightweight_filtering/include -I/home/ws/devel_release/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4   -std=c++0x -march=native -O3 -DNDEBUG   -o CMakeFiles/rovio_rosbag_loader.dir/src/rovio_rosbag_loader.cpp.o -c /home/ws/src/rovio/src/rovio_rosbag_loader.cpp",
+  "file": "/home/ws/src/rovio/src/rovio_rosbag_loader.cpp"
+},
+{
+  "directory": "/home/ws/build_release/rovio",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rovio\\\" -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -Drovio_EXPORTS -I/home/ws/devel_release/.private/rovio/include -I/usr/include/eigen3 -I/home/ws/src/rovio/include -I/home/ws/src/rovio/lightweight_filtering/include -I/home/ws/devel_release/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4   -std=c++0x -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/rovio.dir/src/Camera.cpp.o -c /home/ws/src/rovio/src/Camera.cpp",
+  "file": "/home/ws/src/rovio/src/Camera.cpp"
+},
+{
+  "directory": "/home/ws/build_release/rovio",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rovio\\\" -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -Drovio_EXPORTS -I/home/ws/devel_release/.private/rovio/include -I/usr/include/eigen3 -I/home/ws/src/rovio/include -I/home/ws/src/rovio/lightweight_filtering/include -I/home/ws/devel_release/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4   -std=c++0x -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o -c /home/ws/src/rovio/src/FeatureCoordinates.cpp",
+  "file": "/home/ws/src/rovio/src/FeatureCoordinates.cpp"
+},
+{
+  "directory": "/home/ws/build_release/rovio",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rovio\\\" -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -Drovio_EXPORTS -I/home/ws/devel_release/.private/rovio/include -I/usr/include/eigen3 -I/home/ws/src/rovio/include -I/home/ws/src/rovio/lightweight_filtering/include -I/home/ws/devel_release/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4   -std=c++0x -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o -c /home/ws/src/rovio/src/FeatureDistance.cpp",
+  "file": "/home/ws/src/rovio/src/FeatureDistance.cpp"
+},
+{
+  "directory": "/home/ws/build_release/rovio/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -Dgmock_main_EXPORTS -I/home/ws/devel_release/include -I/usr/include/eigen3 -I/home/ws/src/rovio/lightweight_filtering/include -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -std=c++0x -march=native -O3 -DNDEBUG -fPIC   -std=c++11 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/ws/build_release/rovio/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -Dgmock_EXPORTS -I/home/ws/devel_release/include -I/usr/include/eigen3 -I/home/ws/src/rovio/lightweight_filtering/include -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -std=c++0x -march=native -O3 -DNDEBUG -fPIC   -std=c++11 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/ws/build_release/rovio/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -Dgtest_main_EXPORTS -I/home/ws/devel_release/include -I/usr/include/eigen3 -I/home/ws/src/rovio/lightweight_filtering/include -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest   -std=c++0x -march=native -O3 -DNDEBUG -fPIC   -std=c++11 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/ws/build_release/rovio/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -DROVIO_NCAM=1 -DROVIO_NLEVELS=4 -DROVIO_NMAXFEATURE=25 -DROVIO_NPOSE=0 -DROVIO_PATCHSIZE=6 -Dgtest_EXPORTS -I/home/ws/devel_release/include -I/usr/include/eigen3 -I/home/ws/src/rovio/lightweight_filtering/include -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest   -std=c++0x -march=native -O3 -DNDEBUG -fPIC   -std=c++11 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]
